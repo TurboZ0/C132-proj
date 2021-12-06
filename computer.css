@@ -1,0 +1,13 @@
+.heading {
+    text-align: center;
+    font-size: 25;
+    color: cyan;
+    margin-left: 900px;
+    font-family: ALGERIAN;
+}
+
+
+canvas {
+    border: 10px ridge blue;
+    border-radius: 20px;
+}
